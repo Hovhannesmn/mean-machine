@@ -1,0 +1,49 @@
+Magic happens on port 8080
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+MongoError: auth fails
+    at Function.MongoError.create (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/error.js:31:11)
+    at /home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:489:72
+    at authenticateStragglers (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:435:16)
+    at Connection.messageHandler (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:469:5)
+    at Socket.<anonymous> (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/connection.js:321:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:543:20)
+Magic happens on port 8080
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+MongoError: auth fails
+    at Function.MongoError.create (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/error.js:31:11)
+    at /home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:489:72
+    at authenticateStragglers (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:435:16)
+    at Connection.messageHandler (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:469:5)
+    at Socket.<anonymous> (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/connection.js:321:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:543:20)
+Magic happens on port 8080
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+MongoError: auth fails
+    at Function.MongoError.create (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/error.js:31:11)
+    at /home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:489:72
+    at authenticateStragglers (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:435:16)
+    at Connection.messageHandler (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/pool.js:469:5)
+    at Socket.<anonymous> (/home/hovhannes/node_mod/mean_machine/lecture1/node_modules/mongodb-core/lib/connection/connection.js:321:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    at TCP.onread (net.js:543:20)
+Magic happens on port 8080

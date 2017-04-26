@@ -1,23 +1,19 @@
 {
-  "name": "mean-machine",
+  "name": "lecture1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hovhannesmn/mean-machine.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hovhannesmn/mean-machine/issues"
-  },
-  "homepage": "https://github.com/Hovhannesmn/mean-machine#readme",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "nodemon": "^1.11.0"
+    "mongoose": "^4.9.3",
+    "morgan": "^1.8.1"
   }
 }
